@@ -3,10 +3,13 @@ Early and accurate diagnosis of diseases can often save lives. Diagnosis of dise
 
 ## Dataset
 * Kaggle.com
+
 * Covid chest-xray image
+
 ![covid xray](https://github.com/Shahid-Fakhri/Feature-Extracture-and-Classification-Using-Covid-dataset/assets/83221922/a8c532bd-0e8e-4787-90f7-863c8e962769)
 
 * Non-Covid chest-xray image
+
 ![non-covid xray](https://github.com/Shahid-Fakhri/Feature-Extracture-and-Classification-Using-Covid-dataset/assets/83221922/e2d25b86-6db8-4160-affc-2bec35be234c)
 
 ## Objectives
